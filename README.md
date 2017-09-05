@@ -16,6 +16,6 @@ A solution such as a powerful image classifier can help the company track shelf 
 You are required to predict the category of each product.
 
 ## Solution
-Given that the provided groceries dataset shares many similarities with images in the ImageNet dataset, I used a pre-trained InvisionV3 model, adapted with transfer learning and fine tuning.
+Given that the provided groceries dataset shares many similarities with images in the ImageNet dataset, I used a pre-trained InceptionV3 model, adapted with transfer learning and fine tuning.
 
 This led to a prediction score of 0.65777 on the test version of the dataset.
