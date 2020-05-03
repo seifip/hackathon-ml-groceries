@@ -7,8 +7,6 @@ Dataset: https://he-s3.s3.amazonaws.com/media/hackathon/deep-learning-challenge-
 
 ## Problem statement
 
-The applications of Deep Neural Nets is on a roll. Whether it is healthcare, transportation, or retail, companies across all industries are excited about investing in building intelligent solutions. Meanwhile, let’s hope human intelligence remains uncontested.
-
 In this challenge, you will help one of the largest retailers in Germany improve their inventory-management process in its Food and Groceries business. The company is looking for intelligent solutions that can reduce the amount of human effort in its warehouse and retail outlets.
 
 A solution such as a powerful image classifier can help the company track shelf inventory, categorize products, record product volume etc.
